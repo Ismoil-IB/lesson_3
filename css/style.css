@@ -1,0 +1,75 @@
+@import "null.css";
+
+ *{
+	color: rgb(6, 51, 45);
+} 
+/*  */
+/* p {
+	color: lightseagreen;
+} */
+
+/* p {
+	color: rgb(71, 4, 226);
+} */
+
+
+span {
+	color: orange;
+}
+
+.translate-header {
+	color: peru;
+}
+
+.translate-header {
+	color: #88683e;
+}
+
+#translate-paragraph{
+	color: tomato;
+}
+
+.block {
+	color: firebrick;
+}
+
+.translate-paragraph-2 {
+	color: gold;
+}
+
+div{
+	color: rgb(187, 48, 48);
+}
+
+
+div.paragraph{
+	color: indianred;
+}
+
+div.text{
+	color: navy;
+}
+
+.end-paragraph .end-paragraph1{
+	color: palevioletred;
+}
+
+ul li {
+	color: deeppink;
+}
+
+.s-class > p{
+	color: green;
+}
+
+#l-class + p {
+	color: hotpink;
+}
+
+/* .l-class__next + p{ 
+	color: #1e21e9;
+}*/
+
+.l-class__next ~ p{
+	color: lightseagreen;
+}
